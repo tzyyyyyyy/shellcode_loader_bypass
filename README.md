@@ -6,12 +6,12 @@
 
 ## 文件结构
 
+```bash
 project/
 ├── loader.cpp        # Shellcode 加载器
 ├── xor_encrypt.py    # Shellcode 加密工具
 └── shellcode.bin     # 加密后的 Shellcode 文件（生成）
-
-
+```
 
 ## 功能特性
 

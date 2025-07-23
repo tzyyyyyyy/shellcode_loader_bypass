@@ -66,14 +66,6 @@ loader.exe
 
 ## 技术细节
 
-### 加密原理
-
-使用简单的 XOR 运算加密 Shellcode：
-
-```python
-encrypted_byte = original_byte ^ 0x5A
-```
-
 ### 加载流程
 
 1. 读取加密的 shellcode.bin 文件

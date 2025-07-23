@@ -81,18 +81,6 @@ encrypted_byte = original_byte ^ 0x5A
 <img width="2503" height="1481" alt="8140b0facb661b5ccae51c5cea68a68" src="https://github.com/user-attachments/assets/17415830-950c-435f-ad41-5ee68151d729" />
 
 
-
-## 注意事项
-
-1. 请确保加密密钥（0x5A）在加解密过程中保持一致
-2. 测试时建议关闭杀毒软件的实时监控
-3. 仅供合法授权测试使用
-
-## 已知限制
-
-- 使用基础 XOR 加密，对抗高级杀毒软件效果有限
-- 未实现反沙箱和反调试功能
-
 ## 授权信息
 
 本项目仅用于测试目的，禁止用于非法用途。

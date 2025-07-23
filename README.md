@@ -12,6 +12,7 @@ project/
 └── shellcode.bin     # 加密后的 Shellcode 文件（生成）
 
 
+
 ## 功能特性
 
 - **XOR 加密**：使用 0x5A 密钥加密 Shellcode

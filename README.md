@@ -13,6 +13,10 @@
 ### 火绒
 <img width="2503" height="1481" alt="8140b0facb661b5ccae51c5cea68a68" src="https://github.com/user-attachments/assets/17415830-950c-435f-ad41-5ee68151d729" />
 
+### 电脑管家
+<img width="860" height="556" alt="a3cbfd4d92b9fb71182fed9899ddca6" src="https://github.com/user-attachments/assets/bd621c03-8099-4d89-8edf-4f73fc28a229" />
+
+
 ## 文件结构
 
 ```bash

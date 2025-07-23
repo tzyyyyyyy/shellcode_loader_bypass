@@ -21,7 +21,7 @@
 
 ```bash
 project/
-├── loader.cpp        # Shellcode 加载器
+├── bypass.cpp        # Shellcode 加载器
 ├── xor_encrypt.py    # Shellcode 加密工具
 └── shellcode.bin     # 加密后的 Shellcode 文件（生成）
 ```
@@ -50,7 +50,7 @@ python xor_encrypt.py input.bin shellcode.bin
 使用 MinGW 编译：
 
 ```bash
-g++ loader.cpp -o loader.exe -static -mwindows -s -Os
+g++ bypass.cpp -o loader.exe -static -mwindows -s -Os
 ```
 
 编译选项说明：

@@ -73,13 +73,13 @@ encrypted_byte = original_byte ^ 0x5A
 
 ## 绕过效果
 截止时间为2025年7月23日
-
+<img width="2859" height="137" alt="06b09e5a509bd5568becb56b7f132b9" src="https://github.com/user-attachments/assets/552c87f2-827f-4583-a91b-75e25dfc7ab3" />
 ### 360安全卫士
 <img width="2503" height="1481" alt="acb33abb2190b35dc660395b72fd096" src="https://github.com/user-attachments/assets/509fbcf5-02a0-46f9-8cd0-b14a8a535d97" />
 
 ### 火绒
 <img width="2503" height="1481" alt="8140b0facb661b5ccae51c5cea68a68" src="https://github.com/user-attachments/assets/17415830-950c-435f-ad41-5ee68151d729" />
-<img width="2859" height="137" alt="06b09e5a509bd5568becb56b7f132b9" src="https://github.com/user-attachments/assets/552c87f2-827f-4583-a91b-75e25dfc7ab3" />
+
 
 
 ## 注意事项
